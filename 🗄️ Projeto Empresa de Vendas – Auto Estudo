@@ -1,0 +1,71 @@
+ 🗄️ Projeto Empresa de Vendas – Auto Estudo
+
+Este projeto foi desenvolvido com o objetivo de fortalecer meus conhecimentos em **SQL** por meio da prática, 
+simulando um banco de dados de uma empresa de vendas.
+
+A proposta é transformar o conteúdo estudado em exercícios práticos, permitindo aplicar conceitos de modelagem de banco de dados, 
+manipulação de informações e consultas SQL semelhantes às encontradas no ambiente corporativo.
+
+Durante o desenvolvimento deste projeto, exercitei e apliquei os seguintes conceitos:
+
+* DDL (Data Definition Language)
+
+  * CREATE TABLE
+  * ALTER TABLE
+  * DROP TABLE
+  * Definição de Primary Keys (PK)
+  * Definição de Foreign Keys (FK)
+  * Tipos de dados (INT, VARCHAR, DECIMAL, DATE, etc.)
+  * Restrições (NOT NULL, UNIQUE, AUTO_INCREMENT, entre outras)
+
+* DML (Data Manipulation Language) *
+
+  * INSERT
+  * UPDATE
+  * DELETE
+
+* Consultas SQL *
+
+  * SELECT
+  * WHERE
+  * ORDER BY
+  * GROUP BY
+  * HAVING
+  * DISTINCT
+  * LIMIT
+  * AS (Alias)
+
+* Operadores *
+
+  * AND
+  * OR
+  * NOT
+  * IN
+  * BETWEEN
+  * LIKE
+  * IS NULL
+
+* Junções *
+
+  * INNER JOIN
+  * LEFT JOIN
+  * RIGHT JOIN
+
+* Funções de Agregação *
+
+  * COUNT()
+  * SUM()
+  * AVG()
+  * MIN()
+  * MAX()
+
+* **Consultas Avançadas**
+
+  * Subqueries
+  * UNION
+  * Relacionamentos entre tabelas
+  * Consultas envolvendo múltiplas tabelas
+
+Este repositório faz parte da minha jornada de aprendizado na área de **Análise de Dados**, 
+servindo como registro da evolução dos meus estudos e da aplicação prática dos conceitos de SQL. 
+O projeto será atualizado continuamente à medida que novos conteúdos forem sendo estudados e implementados.
