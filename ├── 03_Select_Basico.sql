@@ -58,6 +58,10 @@ Descubra quais cidades aparecem na tabela Clientes, sem repetir.
 
 📝 Desafio 7
 
+Encontre a idade do cliente mais velho.
+
+📝 Desafio 8
+
 Mostre o nome dos produtos, mas faça a coluna aparecer com um nome diferente no resultado.
 */
 
@@ -96,7 +100,10 @@ limit 0, 5;
 select distinct cidade
 from empresa_vendas.clientes;
 
--- 📝 Desafio 7 - Mostre o nome dos produtos, mas faça a coluna aparecer com um nome diferente no resultado.
+-- 📝 Desafio 7 - Encontre a idade do cliente mais velho.
+
+select max(idade) from empresa_vendas.clientes
+
+-- 📝 Desafio 8 - Mostre o nome dos produtos, mas faça a coluna aparecer com um nome diferente no resultado.
 
 select nome_produto as produtos
-from empresa_vendas.produtos;
